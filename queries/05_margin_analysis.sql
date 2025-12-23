@@ -1,5 +1,4 @@
-# Question:
-## Has the average margin of victory changed over time?
+# Question: Has the average margin of victory changed over time?
 
 USE nfl_analytics;
 
