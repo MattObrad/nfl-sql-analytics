@@ -1,5 +1,4 @@
-# Question:
-## How many NFL games are in the dataset, and what seasons does it cover?
+# Question: How many NFL games are in the dataset, and what seasons does it cover?
 
 USE nfl_analytics;
 
