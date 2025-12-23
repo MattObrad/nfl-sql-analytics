@@ -1,5 +1,4 @@
-# Question:
-## What does the head-to-head history look like between two teams (Packers vs. Bears)?
+# Question: What does the head-to-head history look like between two teams (Packers vs. Bears)?
 
 USE nfl_analytics;
 
