@@ -1,5 +1,4 @@
-# Question:
-## How has league-wide scoring (average points per game) changed by season?
+# Question: How has league-wide scoring (average points per game) changed by season?
 
 USE nfl_analytics;
 
