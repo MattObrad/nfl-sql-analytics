@@ -1,5 +1,4 @@
-# Question:
-## Which teams have the most wins across all seasons?
+# Question: Which teams have the most wins across all seasons?
 
 USE nfl_analytics;
 
