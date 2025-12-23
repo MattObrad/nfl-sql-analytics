@@ -1,5 +1,4 @@
-# Question:
-## Do home teams win more often than away teams?
+# Question: Do home teams win more often than away teams?
 
 USE nfl_analytics;
 
